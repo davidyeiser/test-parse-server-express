@@ -2,7 +2,7 @@
   "name": "test-parse-server-express",
   "version": "0.1.0",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "parse": "^2.15.0",
     "parse-dashboard": "^2.1.0",
     "parse-server": "^4.3.0"
